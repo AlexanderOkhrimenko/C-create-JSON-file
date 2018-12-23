@@ -1,5 +1,5 @@
 //  main.c
-// rea ffmpeg progress json
+// read ffmpeg progress json
 //
 //  Created by Xander on 23.07.2018.
 //  Copyright © 2018 Xander. All rights reserved.
